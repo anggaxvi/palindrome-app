@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PalindromeChecker</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="name">Name</string>
+    <string name="btn_check">CHECK</string>
+    <string name="btn_next">NEXT</string>
+    <string name="item_name">First name Last name</string>
+    <string name="item_email">email@gmail.com</string>
+    <string name="retry">Retry</string>
+    <string name="error">Time Out</string>
+    <string name="empty">Empty Data</string>
+    <string name="empty_username">Selected User Name</string>
+    <string name="select_user">Choose User</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="welcome">Welcome</string>
+    <string name="guest">Guest</string>
+    <string name="close">CLOSE</string>
+    <string name="refresh">Refreshed</string>
+    <string name="message">This is information</string>
+    <string name="not_palindrome">Not Palindrome</string>
+</resources>
